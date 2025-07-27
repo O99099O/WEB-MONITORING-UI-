@@ -1,8 +1,3 @@
-Berikut `README.md` yang profesional, rapih, dan menjelaskan isi script `main2.py` di repo GitHub-mu:
-
----
-
-````markdown
 # 💻 WEB MONITORING UI - POLOSS
 
 **Advanced Network Monitoring GUI Tool**  
@@ -49,8 +44,6 @@ Dibuat oleh: [POLOSS](https://github.com/O99099O)
 
 - `main2.py` — Source utama aplikasi GUI
 - `monitor_history.json` — File history target yang pernah dimonitor
-
----
 
 ## 🖼️ Tampilan Antarmuka
 
